@@ -1,0 +1,94 @@
+{
+  "title": "Web Development Quiz",
+  "description": "Test your knowledge of web development fundamentals. You have 1 minute per question.",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What does HTML stand for?",
+      "answers": [
+        "Hyper Text Markup Language",
+        "High Tech Modern Language",
+        "Home Tool Markup Language",
+        "Hyperlinks and Text Markup Language"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a JavaScript framework?",
+      "answers": [
+        "Django",
+        "React",
+        "Laravel",
+        "Ruby on Rails"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 3,
+      "question": "What is the correct syntax for declaring a JavaScript variable?",
+      "answers": [
+        "var myVar = 10;",
+        "variable myVar = 10;",
+        "v myVar = 10;",
+        "declare myVar = 10;"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 4,
+      "question": "Which CSS property is used to change the text color of an element?",
+      "answers": [
+        "text-color",
+        "color",
+        "font-color",
+        "text-style"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 5,
+      "question": "What does CSS stand for?",
+      "answers": [
+        "Computer Style Sheets",
+        "Creative Style Sheets",
+        "Cascading Style Sheets",
+        "Colorful Style Sheets"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 6,
+      "question": "Which HTTP method is used to send data to a server?",
+      "answers": [
+        "GET",
+        "POST",
+        "RETRIEVE",
+        "FETCH"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 7,
+      "question": "What is the purpose of the 'async' keyword in JavaScript?",
+      "answers": [
+        "To make code run faster",
+        "To declare a function that returns a Promise",
+        "To handle errors automatically",
+        "To pause code execution"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is NOT a primitive data type in JavaScript?",
+      "answers": [
+        "String",
+        "Number",
+        "Object",
+        "Boolean"
+      ],
+      "correctAnswer": 2
+    }
+  ]
+}
