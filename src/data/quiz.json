@@ -177,6 +177,72 @@
         ":className"
       ],
       "correctAnswer": 1
+    },
+    {
+      "id": 17,
+      "question": "What is a callback function in JavaScript?",
+      "answers": [
+        "A function that is passed as an argument to another function",
+        "A function that returns another function",
+        "A function that automatically executes",
+        "A function stored in a database"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 18,
+      "question": "Which HTTP status code indicates a successful request?",
+      "answers": [
+        "200",
+        "400",
+        "404",
+        "500"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 19,
+      "question": "What is the purpose of Git?",
+      "answers": [
+        "A web browser",
+        "A version control system",
+        "A database management tool",
+        "A code editor"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 20,
+      "question": "Which property is used to add a background image in CSS?",
+      "answers": [
+        "background-image",
+        "image-background",
+        "bg-image",
+        "image"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 21,
+      "question": "What does API stand for?",
+      "answers": [
+        "Application Programming Interface",
+        "Advanced Program Integration",
+        "Application Process Integration",
+        "Automated Programming Interface"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 22,
+      "question": "Which JavaScript method is used to convert a string to lowercase?",
+      "answers": [
+        "toLowerCase()",
+        "lower()",
+        "toLower()",
+        "lowercase()"
+      ],
+      "correctAnswer": 0
     }
   ]
 }
