@@ -89,6 +89,94 @@
         "Boolean"
       ],
       "correctAnswer": 2
+    },
+    {
+      "id": 9,
+      "question": "What is the DOM?",
+      "answers": [
+        "Document Object Model",
+        "Data Output Manager",
+        "Dynamic Object Module",
+        "Database Organization Method"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 10,
+      "question": "Which method is used to select an element by its ID in JavaScript?",
+      "answers": [
+        "document.getElementByID()",
+        "document.getElementById()",
+        "document.selectID()",
+        "document.querySelector()"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 11,
+      "question": "What does REST API stand for?",
+      "answers": [
+        "Representational State Transfer API",
+        "Remote Execution Service Transfer API",
+        "Real-time Event Stream Transfer API",
+        "Request Execution System Transfer API"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 12,
+      "question": "Which of these is a NoSQL database?",
+      "answers": [
+        "PostgreSQL",
+        "MySQL",
+        "MongoDB",
+        "Oracle"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 13,
+      "question": "What is the purpose of package.json in a Node.js project?",
+      "answers": [
+        "To store database credentials",
+        "To manage project dependencies and scripts",
+        "To configure server ports",
+        "To define HTML structure"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 14,
+      "question": "Which symbol is used for comments in JavaScript?",
+      "answers": [
+        "// for single line, /* */ for multi-line",
+        "# for single line, ''' for multi-line",
+        "-- for single line, {- -} for multi-line",
+        "<!-- for single line, --> for multi-line"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 15,
+      "question": "What does JSON stand for?",
+      "answers": [
+        "JavaScript Object Notation",
+        "Java Standard Object Name",
+        "JavaScript Oriented Network",
+        "Java System Object Naming"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 16,
+      "question": "Which CSS selector targets all elements with a specific class?",
+      "answers": [
+        "#className",
+        ".className",
+        "*className",
+        ":className"
+      ],
+      "correctAnswer": 1
     }
   ]
 }
